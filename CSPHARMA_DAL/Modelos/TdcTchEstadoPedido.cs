@@ -21,11 +21,11 @@ public partial class TdcTchEstadoPedido
 
     public string CodLinea { get; set; } = null!;
 
-    public virtual TdcCatEstadosDevolucionPedido MdUu { get; set; } = null!;
+    public virtual TdcCatEstadosDevolucionPedido? CodEstadoDevolucionNavigation { get; set; }
 
-    public virtual TdcCatEstadosPagoEnvio MdUu1 { get; set; } = null!;
+    public virtual TdcCatEstadosEnvioPedido? CodEstadoEnvioNavigation { get; set; }
 
-    public virtual TdcCatLineasDistribucion MdUu2 { get; set; } = null!;
+    public virtual TdcCatEstadosPagoPedido? CodEstadoPagoNavigation { get; set; }
 
-    public virtual TdcCatEstadosEnvioPedido MdUuNavigation { get; set; } = null!;
+    public virtual TdcCatLineasDistribucion CodLineaNavigation { get; set; } = null!;
 }

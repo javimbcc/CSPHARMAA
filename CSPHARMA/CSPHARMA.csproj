@@ -23,8 +23,4 @@
     <ProjectReference Include="..\CSPHARMA_DAL\CSPHARMA_DAL.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controladores\" />
-  </ItemGroup>
-
 </Project>

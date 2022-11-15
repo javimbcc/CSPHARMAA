@@ -19,5 +19,5 @@ public partial class TdcCatLineasDistribucion
 
     public string CodBarrio { get; set; } = null!;
 
-    public virtual TdcTchEstadoPedido? TdcTchEstadoPedido { get; set; }
+    public virtual ICollection<TdcTchEstadoPedido> TdcTchEstadoPedidos { get; } = new List<TdcTchEstadoPedido>();
 }

@@ -1,5 +1,7 @@
-//using CSPHARMA_DAL.Modelos;
+using CSPHARMA_DAL.Modelos;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity;
+using CSPHARMA.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,9 +10,10 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddRazorPages();
 
-//builder.Services.AddDbContext<CspharmaInformacionalContext>(
-//    o => o.UseNpgsql(builder.Configuration.GetConnectionString("EFCConexion"))
-//    );
+builder.Services.AddDbContext<PostgresContext>(
+    o => o.UseNpgsql(builder.Configuration.GetConnectionString("EFCConexion"))
+    );
+
 
 var app = builder.Build();
 
@@ -26,6 +29,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseAuthentication();;
 
 app.UseAuthorization();
 

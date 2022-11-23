@@ -5,140 +5,73 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CSPHARMA
 build_property.RootNamespace = CSPHARMA
-build_property.ProjectDir = C:\Users\menaj\source\repos\CSPHARMA\CSPHARMA\
+build_property.ProjectDir = C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\menaj\source\repos\CSPHARMA\CSPHARMA
+build_property.MSBuildProjectDirectory = C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/Error.cshtml]
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Areas/Identity/Pages/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Areas/Identity/Pages/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Areas/Identity/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoDevolucion/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvRGV2b2x1Y2lvblxDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoDevolucion/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvRGV2b2x1Y2lvblxEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoDevolucion/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvRGV2b2x1Y2lvblxEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoDevolucion/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvRGV2b2x1Y2lvblxFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoDevolucion/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvRGV2b2x1Y2lvblxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoEnvio/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvRW52aW9cQ3JlYXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoEnvio/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvRW52aW9cRGVsZXRlLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoEnvio/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvRW52aW9cRGV0YWlscy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoEnvio/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvRW52aW9cRWRpdC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoEnvio/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvRW52aW9cSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoPago/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvUGFnb1xDcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoPago/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvUGFnb1xEZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoPago/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvUGFnb1xEZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoPago/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvUGFnb1xFZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoPago/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvUGFnb1xJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoPedido/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvUGVkaWRvXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoPedido/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvUGVkaWRvXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoPedido/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvUGVkaWRvXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoPedido/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvUGVkaWRvXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/EstadoPedido/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvUGVkaWRvXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/Index.cshtml]
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/LineasDistribucion/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGluZWFzRGlzdHJpYnVjaW9uXENyZWF0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/LineasDistribucion/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGluZWFzRGlzdHJpYnVjaW9uXERlbGV0ZS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/LineasDistribucion/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGluZWFzRGlzdHJpYnVjaW9uXERldGFpbHMuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/LineasDistribucion/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGluZWFzRGlzdHJpYnVjaW9uXEVkaXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/LineasDistribucion/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGluZWFzRGlzdHJpYnVjaW9uXEluZGV4LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/Privacy.cshtml]
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/_ViewImports.cshtml]
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/_ViewStart.cshtml]
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/menaj/source/repos/CSPHARMA/CSPHARMA/Pages/Shared/_Layout.cshtml]
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Views/ControladorDeLogin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJvbGFkb3JEZUxvZ2luXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/menaj/Documents/CSPHARMAA/CSPHARMA/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-8b80unmxxo

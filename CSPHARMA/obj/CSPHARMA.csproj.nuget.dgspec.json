@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\menaj\\source\\repos\\CSPHARMA\\CSPHARMA\\CSPHARMA.csproj": {}
+    "C:\\Users\\menaj\\Documents\\CSPHARMAA\\CSPHARMA\\CSPHARMA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\menaj\\source\\repos\\CSPHARMA\\CSPHARMA\\CSPHARMA.csproj": {
+    "C:\\Users\\menaj\\Documents\\CSPHARMAA\\CSPHARMA\\CSPHARMA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\menaj\\source\\repos\\CSPHARMA\\CSPHARMA\\CSPHARMA.csproj",
+        "projectUniqueName": "C:\\Users\\menaj\\Documents\\CSPHARMAA\\CSPHARMA\\CSPHARMA.csproj",
         "projectName": "CSPHARMA",
-        "projectPath": "C:\\Users\\menaj\\source\\repos\\CSPHARMA\\CSPHARMA\\CSPHARMA.csproj",
+        "projectPath": "C:\\Users\\menaj\\Documents\\CSPHARMAA\\CSPHARMA\\CSPHARMA.csproj",
         "packagesPath": "C:\\Users\\menaj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\menaj\\source\\repos\\CSPHARMA\\CSPHARMA\\obj\\",
+        "outputPath": "C:\\Users\\menaj\\Documents\\CSPHARMAA\\CSPHARMA\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\menaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\menaj\\source\\repos\\CSPHARMA\\CSPHARMA_DAL\\CSPHARMA_DAL.csproj": {
-                "projectPath": "C:\\Users\\menaj\\source\\repos\\CSPHARMA\\CSPHARMA_DAL\\CSPHARMA_DAL.csproj"
+              "C:\\Users\\menaj\\Documents\\CSPHARMAA\\CSPHARMA_DAL\\CSPHARMA_DAL.csproj": {
+                "projectPath": "C:\\Users\\menaj\\Documents\\CSPHARMAA\\CSPHARMA_DAL\\CSPHARMA_DAL.csproj"
               }
             }
           }
@@ -44,6 +48,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -84,21 +96,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\menaj\\source\\repos\\CSPHARMA\\CSPHARMA_DAL\\CSPHARMA_DAL.csproj": {
+    "C:\\Users\\menaj\\Documents\\CSPHARMAA\\CSPHARMA_DAL\\CSPHARMA_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\menaj\\source\\repos\\CSPHARMA\\CSPHARMA_DAL\\CSPHARMA_DAL.csproj",
+        "projectUniqueName": "C:\\Users\\menaj\\Documents\\CSPHARMAA\\CSPHARMA_DAL\\CSPHARMA_DAL.csproj",
         "projectName": "CSPHARMA_DAL",
-        "projectPath": "C:\\Users\\menaj\\source\\repos\\CSPHARMA\\CSPHARMA_DAL\\CSPHARMA_DAL.csproj",
+        "projectPath": "C:\\Users\\menaj\\Documents\\CSPHARMAA\\CSPHARMA_DAL\\CSPHARMA_DAL.csproj",
         "packagesPath": "C:\\Users\\menaj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\menaj\\source\\repos\\CSPHARMA\\CSPHARMA_DAL\\obj\\",
+        "outputPath": "C:\\Users\\menaj\\Documents\\CSPHARMAA\\CSPHARMA_DAL\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\menaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -151,7 +167,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

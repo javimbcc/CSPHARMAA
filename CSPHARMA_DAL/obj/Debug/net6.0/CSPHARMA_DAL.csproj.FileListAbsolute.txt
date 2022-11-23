@@ -12,3 +12,17 @@ C:\Users\menaj\source\repos\CSPHARMA\CSPHARMA_DAL\obj\Debug\net6.0\refint\CSPHAR
 C:\Users\menaj\source\repos\CSPHARMA\CSPHARMA_DAL\obj\Debug\net6.0\CSPHARMA_DAL.pdb
 C:\Users\menaj\source\repos\CSPHARMA\CSPHARMA_DAL\obj\Debug\net6.0\CSPHARMA_DAL.genruntimeconfig.cache
 C:\Users\menaj\source\repos\CSPHARMA\CSPHARMA_DAL\obj\Debug\net6.0\ref\CSPHARMA_DAL.dll
+C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA_DAL\bin\Debug\net6.0\CSPHARMA_DAL.deps.json
+C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA_DAL\bin\Debug\net6.0\CSPHARMA_DAL.runtimeconfig.json
+C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA_DAL\bin\Debug\net6.0\CSPHARMA_DAL.dll
+C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA_DAL\bin\Debug\net6.0\CSPHARMA_DAL.pdb
+C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA_DAL\obj\Debug\net6.0\CSPHARMA_DAL.csproj.AssemblyReference.cache
+C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA_DAL\obj\Debug\net6.0\CSPHARMA_DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA_DAL\obj\Debug\net6.0\CSPHARMA_DAL.AssemblyInfoInputs.cache
+C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA_DAL\obj\Debug\net6.0\CSPHARMA_DAL.AssemblyInfo.cs
+C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA_DAL\obj\Debug\net6.0\CSPHARMA_DAL.csproj.CoreCompileInputs.cache
+C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA_DAL\obj\Debug\net6.0\CSPHARMA_DAL.dll
+C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA_DAL\obj\Debug\net6.0\refint\CSPHARMA_DAL.dll
+C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA_DAL\obj\Debug\net6.0\CSPHARMA_DAL.pdb
+C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA_DAL\obj\Debug\net6.0\CSPHARMA_DAL.genruntimeconfig.cache
+C:\Users\menaj\Documents\CSPHARMAA\CSPHARMA_DAL\obj\Debug\net6.0\ref\CSPHARMA_DAL.dll
